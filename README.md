@@ -9,4 +9,8 @@ Required:
 
 [Wine](http://www.wine-staging.com/news.html) >= 2.10-staging
 
+[[https://github.com/h0ek/POL_EntropiaUniverse/blob/master/EULauncher.jpg|alt=Launcher]]
+
+[[https://github.com/h0ek/POL_EntropiaUniverse/blob/master/EUWindow.jpg|alt=Window mode]]
+
 Enjoy!
