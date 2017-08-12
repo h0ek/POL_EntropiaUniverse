@@ -1,7 +1,7 @@
 #!/bin/bash
 # Date : 2015-11-09
 # Last revision : 2017-08-12
-# Wine version used : 2.12_staging
+# Wine version used : 2.13-staging
 # Distribution used to test : Ubuntu, Mint, Xubuntu
 # Author : Hoek
 # Email : hoek@protonmail.com
@@ -11,7 +11,7 @@
 [ "$PLAYONLINUX" = "" ] && exit
 source "$PLAYONLINUX/lib/sources"
 
-WINEVERSION="2.12_staging"
+WINEVERSION="2.13-staging"
 
 TITLE="Entropia Universe"
 AUTHOR="Hoek"
