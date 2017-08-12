@@ -7,6 +7,7 @@
 # Email : hoek@protonmail.com
 # Licence : GPLv3
 # PlayOnLinux:  playonlinux-4.2.10
+# Always up to date: https://github.com/h0ek/POL_EntropiaUniverse
      
 [ "$PLAYONLINUX" = "" ] && exit
 source "$PLAYONLINUX/lib/sources"
