@@ -1,10 +1,10 @@
 #!/bin/bash
 # Date : 2015-11-09
-# Last revision : 2017-09-10
+# Last revision : 2018-04-14
 # Wine version used : 2.16-staging
 # Distribution used to test : Ubuntu, Mint, Xubuntu
 # Author : Hoek
-# Email : hoek@protonmail.com
+# Email : hoek@tuta.io
 # Licence : GPLv3
 # PlayOnLinux:  playonlinux-4.2.10
 # Always up to date: https://github.com/h0ek/POL_EntropiaUniverse
