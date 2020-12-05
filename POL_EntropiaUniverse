@@ -37,7 +37,7 @@ then
 elif [ "$INSTALL_METHOD" = "DOWNLOAD" ]
 then
 	cd "$POL_System_TmpDir"
-	POL_Download "http://install2.entropiauniverse.com/entropia_universe_setup.exe" "582E0934F8B45BE40C017506F87F722C"
+	POL_Download "http://install2.entropiauniverse.com/entropia_universe_setup.exe" "a6cf45e100f8c5ad96987883c94cd270"
 	INSTALLER="$POL_System_TmpDir/entropia_universe_setup.exe"
 fi
      
